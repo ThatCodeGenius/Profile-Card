@@ -53,6 +53,11 @@
       gap: 20px
     }
 
+.test-user-name{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
     .test-user-hobbies-and-dislike-button {
       width: 160px;
       height: 40px;
@@ -61,6 +66,7 @@
       font-family: sans-serif;
       font-size: 16px;
       cursor: pointer;
+      align-items: center;
     }
 
     .test-user-hobbies-and-dislike-button:hover {
