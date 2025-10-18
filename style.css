@@ -60,6 +60,7 @@
       border: none;
       font-family: sans-serif;
       font-size: 16px;
+      cursor: pointer;
     }
 
     .test-user-hobbies-and-dislike-button:hover {
